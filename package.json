@@ -5,7 +5,7 @@
   "main": "script.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/laoiseearle/twin-lingo.git"
+    "url": "https://github.com/TonyOjelel/CardLingo.github.io"
   },
   "keywords": [
     "javascript",
@@ -17,9 +17,9 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/laoiseearle/twin-lingo/issues"
+    "url": "https://github.com/TonyOjelel/CardLingo.github.io/issues"
   },
-  "homepage": "https://github.com/laoiseearle/twin-lingo#readme",
+  "homepage": "https://github.com/TonyOjelel/CardLingo.github.io#readme",
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-airbnb": "^18.2.1",
